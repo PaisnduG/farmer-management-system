@@ -1,4 +1,4 @@
 # Farmer-Management-System
- simple web app to add, update, delete and view farmers
+ Simple web app to Add, Update, Delete and View Farmers
  
- technologies- Java 17, Spring Boot, Spring MVC, Spring Data JPA(Hibernate), MySQL, Thymeleaf
+ Technologies used: Java 17, Spring Boot, Spring MVC, Spring Data JPA(Hibernate), MySQL, Thymeleaf
